@@ -14,7 +14,7 @@ namespace StatsPractice
 
         public float CurrentHealth { get; private set; }
 
-        private void Spawn()
+        private void Awake()
         {
             Stats = new Stats();
             Stats.SetBaseValue(StatType.MaxHealth, maxHealth);
