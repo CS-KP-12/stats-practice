@@ -13,6 +13,5 @@
     <Compile Include="StatType.cs" />
     <Compile Include="Stats.cs" />
     <Compile Include="StatModifier.cs" />
-    <Compile Include="Main.cs" />
   </ItemGroup>
 </Project>
