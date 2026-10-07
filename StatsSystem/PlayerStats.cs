@@ -7,8 +7,6 @@ namespace StatsPractice
         private float maxHealth = 100f;
         private float strength = 10f;
         private float agility = 10f;
-        private float intelligence = 10f;
-        private float vitality = 10f;
 
         public Stats Stats { get; private set; }
 
