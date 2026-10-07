@@ -7,8 +7,6 @@ namespace StatsPractice
         Health,
         MaxHealth,
         Strength,
-        Agility,
-        Intelligence,
-        Vitality
+        Agility
     }
 }
